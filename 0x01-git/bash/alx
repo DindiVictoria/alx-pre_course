@@ -1,1 +1,2 @@
-touch _to_date
+#!/bin/bash
+echo "ALX School"
